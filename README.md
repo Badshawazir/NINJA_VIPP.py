@@ -6,6 +6,6 @@ pip install modules
 pip install requests 
 pip install bs4
 git clone https://github.com/Badshawazir/NINJA_VIPP.py
-cd NINJA_VIPP
+cd NINJA_VIPP.py
 python NINJA_VIPP.py
 
